@@ -10,7 +10,7 @@ body {
     display: grid;
     gap: 12px;
     grid-template-rows: 325px 350px;
-    grid-template-columns: repeat(2, 400px);
+    grid-template-columns: repeat(2, 415px);
 }
 
 .emoji {
